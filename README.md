@@ -1,4 +1,4 @@
-# splash_screen_flare
+# splash_screen_rive
 
 A new Flutter project.
 
